@@ -55,7 +55,7 @@ All plots were customized following the **seven commandments of visualization**.
 4. **Correlation Matrix**  
    - Heatmap of numerical correlations to identify hidden relationships.  
 
-5. **Creative Additions (+5 points)**  
+5. **Creative Additions**  
    - ROI distribution by genre (boxplot).  
    - ROI ranking of top 10 genres (bar chart).  
 
